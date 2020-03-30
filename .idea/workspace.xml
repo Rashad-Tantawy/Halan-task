@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="60784563-8e25-450c-af73-f0c187a6955e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="209" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Halan_API_Testting" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZjB1lkN1SJRX3IJmECKECdphCG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/test-output/testng-results.xml" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/RashadTantawy/IdeaProjects/Halan_API_Testting/test-output/testng-results.xml">
+    <configuration name="GenerateReport" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GenerateReport" />
+      <module name="Halan_API_Testting" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/RashadTantawy/IdeaProjects/Halan API Testting/Test_Result.xml" type="TestNG" nameIsGenerated="true">
+      <module name="Halan_API_Testting" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Test_Result.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/RashadTantawy/IdeaProjects/Halan_API_Testting/test-output/testng-results.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Halan_API_Testting" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/test-output/testng-results.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RideRequest.driverLoginFlow (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Halan_API_Testting" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RideRequest" />
+      <option name="METHOD_NAME" value="driverLoginFlow" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RideRequest.driverLoginFlow (4)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Halan_API_Testting" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RideRequest" />
+      <option name="METHOD_NAME" value="driverLoginFlow" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RideRequest.driverLoginFlow (5)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Halan_API_Testting" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RideRequest" />
+      <option name="METHOD_NAME" value="driverLoginFlow" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RideRequest.userLoginFlow" type="TestNG" nameIsGenerated="true">
+      <module name="Halan_API_Testting" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RideRequest" />
+      <option name="METHOD_NAME" value="userLoginFlow" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Suite1" type="TestNG">
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/test-output/testng-results.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <patterns>
+        <pattern testClass="RideRequest" />
+        <pattern testClass="RideRequest2" />
+      </patterns>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test_Result" type="TestNG">
+      <module name="Halan_API_Testting" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RideRequest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea$AffectedModuleNames$" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="C:\Users\RashadTantawy\IdeaProjects\Halan API Testting" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testng-results" type="TestNG">
+      <module name="Halan_API_Testting" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RideRequest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.GenerateReport" />
+      <item itemvalue="TestNG.Test_Result" />
+      <item itemvalue="TestNG.C:/Users/RashadTantawy/IdeaProjects/Halan API Testting/Test_Result.xml" />
+      <item itemvalue="TestNG.RideRequest.userLoginFlow" />
+      <item itemvalue="TestNG.Suite1" />
+      <item itemvalue="TestNG.testng-results" />
+      <item itemvalue="TestNG.RideRequest.driverLoginFlow (2)" />
+      <item itemvalue="TestNG.RideRequest.driverLoginFlow (4)" />
+      <item itemvalue="TestNG.RideRequest.driverLoginFlow (5)" />
+      <item itemvalue="TestNG.C:/Users/RashadTantawy/IdeaProjects/Halan_API_Testting/test-output/testng-results.xml" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/RashadTantawy/IdeaProjects/Halan_API_Testting/test-output/testng-results.xml" />
+        <item itemvalue="TestNG.RideRequest.driverLoginFlow (2)" />
+        <item itemvalue="Application.GenerateReport" />
+        <item itemvalue="TestNG.RideRequest.driverLoginFlow (5)" />
+        <item itemvalue="TestNG.RideRequest.driverLoginFlow (4)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60784563-8e25-450c-af73-f0c187a6955e" name="Default Changelist" comment="" />
+      <created>1585342409488</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585342409488</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="456" y="44" key="#C:/Users/RashadTantawy/IdeaProjects/Halan_API_Testting/Test_Result.xml" timestamp="1585441778768">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="456" y="44" key="#C:/Users/RashadTantawy/IdeaProjects/Halan_API_Testting/Test_Result.xml/0.0.1536.824@0.0.1536.824" timestamp="1585441778768" />
+    <state x="361" y="72" key="#Project_Structure" timestamp="1585443434221">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="72" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1585443434221" />
+    <state x="477" y="61" key="#RideRequest" timestamp="1585518802217">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="44" key="#RideRequest.driverLoginFlow" timestamp="1585510636675">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="44" key="#RideRequest.driverLoginFlow/0.0.1536.824@0.0.1536.824" timestamp="1585510636675" />
+    <state x="477" y="44" key="#RideRequest.driverLoginFlow_(2)" timestamp="1585521790665">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="44" key="#RideRequest.driverLoginFlow_(2)/0.0.1536.824@0.0.1536.824" timestamp="1585521790665" />
+    <state x="477" y="44" key="#RideRequest.userLoginFlow" timestamp="1585510576962">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="44" key="#RideRequest.userLoginFlow/0.0.1536.824@0.0.1536.824" timestamp="1585510576962" />
+    <state x="477" y="61" key="#RideRequest/0.0.1536.824@0.0.1536.824" timestamp="1585518802217" />
+    <state x="477" y="44" width="595" height="735" key="#RideRequest_and_1_more" timestamp="1585517316338">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="44" width="595" height="735" key="#RideRequest_and_1_more/0.0.1536.824@0.0.1536.824" timestamp="1585517316338" />
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585518853033">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1585518853033" />
+    <state x="548" y="118" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1585439909028">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="118" key="#com.intellij.ide.macro.MacrosDialog/0.0.1536.824@0.0.1536.824" timestamp="1585439909028" />
+    <state x="498" y="189" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1585517481710">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="189" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1585517481710" />
+    <state x="498" y="197" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1585517631881">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="197" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1585517631881" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1585517829941">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585517829941" />
+    <state width="1493" height="441" key="GridCell.Tab.0.bottom" timestamp="1585522122168">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="441" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585522122168" />
+    <state width="1493" height="441" key="GridCell.Tab.0.center" timestamp="1585522122168">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="441" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585522122168" />
+    <state width="1493" height="441" key="GridCell.Tab.0.left" timestamp="1585522122168">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="441" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585522122168" />
+    <state width="1493" height="441" key="GridCell.Tab.0.right" timestamp="1585522122168">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="441" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585522122168" />
+    <state x="299" y="68" key="Maven.ArtifactSearchDialog" timestamp="1585422536391">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="68" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1585422536391" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1585444379199">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585444379199" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1585521740535">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585521740535" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Halan_API_Testting$Test_Result.ic" NAME="Test_Result Coverage Results" MODIFIED="1585517993185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Halan_API_Testting$RideRequest.ic" NAME="RideRequest Coverage Results" MODIFIED="1585437767221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
